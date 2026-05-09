@@ -22,7 +22,7 @@
 ## GitHub
 
 - [x] Đã clone repo lớp.
-- [] Đã tạo branch Buổi 1.
+- [x] Đã tạo branch Buổi 1.
 - [x] Đã commit minh chứng Buổi 1.
 - [x] Đã push lên GitHub.
 
