@@ -97,4 +97,4 @@ Service nào gọi đến service này?
     Reporting Service
 
 ## 8. Sơ đồ minh họa
-![System Diagram](evidence\buoi-01\anh.png)
+![System Diagram](./anh.png)
