@@ -4,7 +4,7 @@
 
 - Tên nhóm:nhóm 10
 - Lớp: CNTT17-13
-- Thành viên: Trần Văn minh, Phạm Khắc Hoàng,Trần Quang Minh
+- Thành viên: Trần Văn minh, Phạm Khắc Hoàng,Trần Quang Minh,Nguyễn Đức Thịnh
 - Service nhóm phụ trách:Xây dựng dịch vụ kiểm soát ra/vào.
 - Sản phẩm tổng thể của lớp:Product B
 
